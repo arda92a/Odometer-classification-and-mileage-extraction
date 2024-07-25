@@ -1,4 +1,4 @@
-# TRODO Dataset Machine Learning Classification Tasks
+# TRODO Dataset Machine Learning Classification 
 
 ## Objective
 The objective of this project is to provide hands-on experience in machine learning classification tasks using the TRODO dataset. The tasks include the classification of odometer types (analog or digital) and the extraction of mileage from images.
